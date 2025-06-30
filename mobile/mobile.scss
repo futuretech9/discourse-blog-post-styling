@@ -182,13 +182,13 @@
           }
         }
 
-        & > p img:not(.emoji) {
-          display: none;
-        }
+    //    & > p img:not(.emoji) {
+   //       display: none;
+   //     }
 
-        & > p ~ p img:not(.emoji) {
-          display: block;
-        }
+  //      & > p ~ p img:not(.emoji) {
+   //       display: block;
+  //      }
       }
     }
 
